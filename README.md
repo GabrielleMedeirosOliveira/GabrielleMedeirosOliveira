@@ -33,7 +33,7 @@
   <a href='https://www.linkedin.com/in/gabriellemedeirosoliveira/' target='_blank'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>
   <a href='mailto:gabriellemedeiros51@gmail.com' target='_blank'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'>
     <a href='https://contate.me/gabriellemedeirosoliveira' target='_blank'><img src='https://img.shields.io/badge/Whatsapp-52ce00?style=for-the-badge&logo=whatsapp&logoColor=white'>
-  <a href='https://drive.google.com/file/d/1o-cmxfPO2XLWRLypCfpn3j-CzsKSop31/view?usp=drive_link'target='_blank'><img src='https://img.shields.io/badge/curriculo-ff0077?style=for-the-badge&logo=About.me&logoColor=white'>
+  <a href='https://drive.google.com/file/d/1o-cmxfPO2XLWRLypCfpn3j-CzsKSop31/view?usp=sharing'target='_blank'><img src='https://img.shields.io/badge/curriculo-ff0077?style=for-the-badge&logo=About.me&logoColor=white'>
 </div>
 <div align='center'>
 <img src='https://github.com/KamilaMattos/KamilaMattos/blob/output/github-contribution-grid-snake.svg'/>
