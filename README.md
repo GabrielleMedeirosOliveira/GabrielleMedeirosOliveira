@@ -33,7 +33,7 @@
   <a href='https://www.linkedin.com/in/gabriellemedeirosoliveira/' target='_blank'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>
   <a href='mailto:gabriellemedeiros51@gmail.com' target='_blank'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'>
     <a href='https://contate.me/gabriellemedeirosoliveira' target='_blank'><img src='https://img.shields.io/badge/Whatsapp-52ce00?style=for-the-badge&logo=whatsapp&logoColor=white'>
-  <a href='https://doc-08-0o-prod-00-apps-viewer.googleusercontent.com/viewer2/prod-00/pdf/5lcn3k4rpsg8iasen4db925otaqhvgrb/4pk8jp15nc5483lhl9a9pfejrq4g89ks/1698953700000/3/106144861588211051433/APznzaYJYHnS075pG49HsEFeaGOeCxhwBcssYwkQDehr6qJgj9hvgT1-Bh4sY_3MaqGvnrdhgfJeEM_GGE8hociIBQGsrHQ-O5r362C0X4Kx9fv1DHllvsJ7n6uqsisKMmV4j7bYauZrSLyLveuGGlKPWX9dwVA7O0oWasBTruizFWBv3KSnvuX3PVW_dWhvOrWJvWXlnywwzPrVePqaOp4EVrk4iBT3g0_-cImkaI8OXAhiCFWZDA7fHU6HnD5WZgaghxvKz0RnDfvO2Vj43vhBATtnesRDFcg_y7LLi9zrmP2HxUUXKiJNSOwkr4FFfZ2dxbmPB465m5O72axqKm0V7iKPrZ2IKWnd2PK54eyxAkUMA1RETRj7w9FsNg3Am8MVmtVebE6htQrDya86gHzlWuSd4rfuBO6Wlet5P1isUEL8Lu92JsM=?authuser=0&nonce=7i1qtup0g1g5g&user=106144861588211051433&hash=5a0cq44i8ctdq3rv5i0t7n1em1mqfpva'target='_blank'><img src='https://img.shields.io/badge/curriculo-ff0077?style=for-the-badge&logo=About.me&logoColor=white'>
+  <a href='https://drive.google.com/file/d/1o-cmxfPO2XLWRLypCfpn3j-CzsKSop31/view?usp=drive_link'target='_blank'><img src='https://img.shields.io/badge/curriculo-ff0077?style=for-the-badge&logo=About.me&logoColor=white'>
 </div>
 <div align='center'>
 <img src='https://github.com/KamilaMattos/KamilaMattos/blob/output/github-contribution-grid-snake.svg'/>
